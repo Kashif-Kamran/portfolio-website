@@ -18,3 +18,5 @@ npm install
 ```     
 3. To run the app
 ```
+npm run dev 
+```
